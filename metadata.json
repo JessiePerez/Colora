@@ -1,0 +1,7 @@
+{
+  "name": "APP Colora - AI Color Harmonizer",
+  "description": "An AI-powered color detection and palette generation app that helps you find the perfect color harmonies using your camera and Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
